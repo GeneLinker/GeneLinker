@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Federated Hits</title>
+    <link rel="stylesheet" type="text/css" href="../static/style.css">
+  </head>
+  <body>
+    <h1>Federated Hits</h1>
+    <form action="/federated_hits" method="GET">
+      <label for="query-sequence">Query Sequence:</label>
+      <input type="text" id="query-sequence" name="query-sequence" required>
+      <br>
+      <label for="api-key">API Key:</label>
+      <input type="text" id="api-key" name="api-key" required>
+      <br>
+      <input type="submit" value="Submit">
+    </form>
+  </body>
+</html>
