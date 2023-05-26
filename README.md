@@ -2,7 +2,7 @@
 
 # Why GeneLinker?
 
-GeneLinker is an open-source package dedicated to secure data sharing of genomic data. It allows you to maintain control of your sequence data, while still allowing potential users to search it and retrieve standardized product passport information for each gene.
+GeneLinker is an open-source package dedicated to secure data sharing of genomic data. It allows you to maintain control of your sequence data, while still allowing potential users to search it and retrieve standardized product passport information for each gene. Learn more at our [site](genelinker.com)
 
 # How Do I Get Started?
 
