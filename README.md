@@ -12,12 +12,13 @@ This repository only contains a proof of concept implementation which will be ex
 
 ## First steps
 
-1. Install dependencies
+1. Install dependencies, optionally in new virtual environment, and start app
 
 ```
-pip install flask 
-pip install biopython
-python app.py reference2.fasta
+conda create -n GeneLinker python=3.9
+conda activate GeneLinker
+pip install -r requirements.txt
+python app.py reference.fasta
 ```
 
 2. Visit site: http://localhost:5000/index.html
